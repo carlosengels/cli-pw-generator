@@ -3,6 +3,8 @@ import java.util.Random;
 public class Main {
     public static void main(String[] args) {
 
+        //TODO add options to use flags to set password length and limit to user no symbols and/or no digis
+
         //test
         if (args.length != 0) {
             System.out.println(args.length);
